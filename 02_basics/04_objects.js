@@ -68,3 +68,5 @@ console.log(Object.entries(tinderUser));//[ [ 'id', '1234' ], [ 'name', 'Summy' 
 
 console.log(tinderUser.hasOwnProperty('isLOggedIn')); // true   means =hasOwnProperty() check karta hai ki object me di gayi key maujood hai ya nahi. aur given output true and false
 console.log(tinderUser.hasOwnProperty('isLOgged'));  // false 
+
+
