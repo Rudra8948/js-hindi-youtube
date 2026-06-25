@@ -136,7 +136,7 @@ Interview Me Sabse Important
 
 */
 
-/*
+
 const isUserLoggedIn = true
 
 if(2=="2"){
@@ -282,7 +282,7 @@ console.log("name" in user3); //true
 const arr = [1, 2, 3];
 console.log(arr instanceof Array); //true
 
-*/
+
 
 const temperature =41
 if(temperature===41){
@@ -341,5 +341,5 @@ if(userLoggedIn3 && debitCard3 && 2==3){
 const loggedInFromGoogle = false
 const LoggedInfromEmail= true
 if(loggedInFromGoogle || LoggedInfromEmail){
-    console.log("User Logged In");
+    console.log("User Logged In");  // user logged in 
 }
