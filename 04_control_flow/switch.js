@@ -15,7 +15,7 @@
 
 */
 
-/*
+
 const month = 3
 switch(month){
     case 1:
@@ -38,7 +38,7 @@ switch(month){
         break;
 }                                       // March
 
-*/
+
 
 
 const month ="march"
