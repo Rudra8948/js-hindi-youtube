@@ -12,6 +12,7 @@ basic syntax ==  for (initialization; condition; update) {
     
 */    
 
+
   for(let i=0;  i<=10 ; i++){
     const element = i;
     console.log(element);
@@ -55,4 +56,24 @@ basic syntax ==  for (initialization; condition; update) {
     
    }
 
+   
    //break and continue 
+  
+   for(let index =1;index<=20;index++){
+    if(index==5){
+      console.log(`Detected 5`)
+      break;
+    }
+       console.log(`value of i is ${index}`);
+   }
+
+  
+
+
+    for(let index =1;index<=20;index++){
+    if(index==5){
+      console.log(`Detected 5`)
+      continue
+    }
+       console.log(`value of i is ${index}`);
+   }
